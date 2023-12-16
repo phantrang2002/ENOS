@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Enos</string>
+    <string name="title_activity_fragment_replacer">FragmentReplacerActivity</string>
+
+    <string name="default_web_client_id">463133142164-ljonvmeslo7t686413r5vg2gt4dric9d.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="followers">Followers</string>
+    <string name="post">Post</string>
+    <string name="following">Following</string>
+</resources>
